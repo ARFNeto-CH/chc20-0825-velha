@@ -1,0 +1,45 @@
+ XXXXX V XXXXX V XXXXX |
+ XX1XX V XX2XX V XX3XX |
+ XXXXX V XXXXX V XXXXX |
+HHHHHHH.HHHHHHH.HHHHHHH|
+ XXXXX V XXXXX V XXXXX |
+ XX4XX V XX5XX V XX6XX |
+ XXXXX V XXXXX V XXXXX |
+HHHHHHH.HHHHHHH.HHHHHHH|
+ XXXXX V XXXXX V XXXXX |
+ XX7XX V XX8XX V XX9XX |
+ XXXXX V XXXXX V XXXXX |
+                       |
+ aaa << resulta >> bbb |
+                       |
+                       |
+ XXXXX v XXXXX v XXXXX |
+ XX1XX v XX2XX v XX3XX |
+ XXXXX v XXXXX v XXXXX |
+hhhhhhh#hhhhhhh#hhhhhhh|
+ XXXXX v XXXXX v XXXXX |
+ XX4XX v XX5XX v XX6XX |
+ XXXXX v XXXXX v XXXXX |
+hhhhhhh#hhhhhhh#hhhhhhh|
+ XXXXX v XXXXX v XXXXX |
+ XX7XX v XX8XX v XX9XX |
+ XXXXX v XXXXX v XXXXX |
+                       |
+ aaa << resulta >> bbb |
+                       |
+                       |
+AHHHHHHHUHHHHHHHUHHHHHHHB|
+V XXXXX v XXXXX v XXXXX V|
+V XX1XX v XX2XX v XX3XX V|
+V XXXXX v XXXXX v XXXXX V|
+Lhhhhhhh#hhhhhhh#hhhhhhhR|
+V XXXXX v XXXXX v XXXXX V|
+V XX4XX v XX5XX v XX6XX V|
+V XXXXX v XXXXX v XXXXX V|
+Lhhhhhhh#hhhhhhh#hhhhhhhR|
+V XXXXX v XXXXX v XXXXX V|
+V XX7XX v XX8XX v XX9XX V|
+V XXXXX v XXXXX v XXXXX V|
+CHHHHHHH^HHHHHHH^HHHHHHHD|
+                         |
+  aaa << resulta >> bbb  |

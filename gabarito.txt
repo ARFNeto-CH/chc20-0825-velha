@@ -1,0 +1,39 @@
+celulas com 3x6 posicoes 
+.......... 
+..XXXXXX..
+..XXXXXX..
+..XXXXXX..
+..........
+
+5 LINHAS 10 COLUNAS CADA BLOCO
+
+Moldura com uma coluna e uma linha
+
+Total = 3X10 + 4 = 34 COLUNAS          
+        5X5+4 =    29 linhas
+
+Gabarito 29 linhas x 34 colunas:        codigos ASCII 437
+
+0111111111121111111111211111111113      0 = 201
+4          5          5          4      1 = 205
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4      2 = 209
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4      3 = 187
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4      4 = 186
+4          5          5          4      5 = 179
+6777777777787777777777877777777779      6 = 199
+4          5          5          4      7 = 196
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4      8 = 197
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4      9 = 182
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4      A = 200
+4          5          5          4      B = 207
+6777777777787777777777877777777779      C = 199
+4          5          5          4
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4      blocos 176,177,178,219
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4
+4  XXXXXX  5  XXXXXX  5  XXXXXX  4
+4          5          5          4
+A1111111111B1111111111B1111111111C
+
+12 simbolos distintos
+
+
